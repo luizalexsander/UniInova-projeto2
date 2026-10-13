@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">Logo UniInova</title>
+  <desc id="desc">Um círculo azul com um símbolo acadêmico em amarelo.</desc>
+  <rect width="180" height="180" rx="32" fill="#0B2447"/>
+  <circle cx="90" cy="90" r="56" fill="#F2C94C"/>
+  <path d="M58 94 L90 68 L122 94 V116 H58 Z" fill="#0B2447" opacity="0.9"/>
+  <path d="M72 100 H108 V118 H72 Z" fill="#F2C94C"/>
+  <path d="M90 58 L120 72 V94 H112 V80 L90 68 L68 80 V94 H60 V72 Z" fill="#0B2447"/>
+</svg>
