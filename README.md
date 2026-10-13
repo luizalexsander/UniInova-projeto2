@@ -1,0 +1,73 @@
+[Index.html](https://github.com/user-attachments/files/33362833/Index.html)
+<DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniInova</title>
+    <link rel="stylesheet" href="../../CSS/STYLE.CSS">
+</head>
+<body>
+    <header class="topo">
+        <div class="container cabecalho">
+            <div class="marca">
+                <img src="../../IMG/logo.svg" alt="Logo da UniInova" class="logo-imagem">
+                <div class="texto-marca">
+                    <span class="tag">Instituição de Ensino</span>
+                    <h1>UniInova</h1>
+                </div>
+            </div>
+
+            <nav class="menu" aria-label="Menu principal">
+                <a href="#graduacao">Graduação</a>
+                <a href="#pos">Pós-graduação</a>
+                <a href="#tecnico">Ensino Técnico</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="banner">
+            <div class="banner-imagem">
+                <img src="../../IMG/banner.svg" alt="Ilustração de educação e formação">
+            </div>
+
+            <div class="banner-conteudo">
+                <p class="eyebrow">Sua próxima etapa começa aqui</p>
+                <h2>Formação que transforma ideias em oportunidades</h2>
+                <p>
+                    A UniInova é uma instituição fictícia comprometida com a aprendizagem prática,
+                    o desenvolvimento profissional e a formação de líderes do futuro.
+                </p>
+
+                <div class="botoes">
+                    <a href="#graduacao">Graduação</a>
+                    <a href="#pos">Pós-graduação</a>
+                    <a href="#tecnico">Ensino Técnico</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="cursos" aria-label="Modalidades de ensino">
+            <article class="curso" id="graduacao">
+                <h3>Graduação</h3>
+                <p>Experiência acadêmica completa com cursos voltados para o mercado e para a inovação.</p>
+            </article>
+
+            <article class="curso" id="pos">
+                <h3>Pós-graduação</h3>
+                <p>Especializações e aperfeiçoamento para profissionais que desejam avançar em suas carreiras.</p>
+            </article>
+
+            <article class="curso" id="tecnico">
+                <h3>Ensino Técnico</h3>
+                <p>Formação prática e objetiva para quem deseja entrar rapidamente no mercado de trabalho.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>UniInova © 2026</p>
+    </footer>
+</body>
+</html>
